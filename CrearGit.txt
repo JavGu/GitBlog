@@ -4,5 +4,6 @@ Esto es parte del ejemplo
 
 
 Documento para modificar y guardar repositorios en ProyectoGit.
+Añadimos comentarios con -m y configurado el usuario
 
-ProyectoGit version 1.1
+ProyectoGit version 1.3
