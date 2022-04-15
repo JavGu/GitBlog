@@ -5,6 +5,6 @@ Esto es parte del ejemplo
 
 Documento para modificar y guardar repositorios en ProyectoGit.
 
-Cambio de prueba tras video de Platzi
+Probando orden de comandos para guardar commit
 
-ProyectoGit version 1.4
+ProyectoGit version 1.5
